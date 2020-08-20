@@ -1,12 +1,12 @@
 ### Hello! I'm Eddy 🏴‍☠️ 
-I'm a DevOps with Azure and c# Developer, I like work with kubernetes and dockers.
-Always i looking make awsome pipelines for CI/CD.
+I'm a DevOps with Azure and c# Developer. I like work with kubernetes and dockers.
+Always I looking make awesome pipelines for CI/CD.
 
 ☣️  Kubectl is always ready in my terminal.
 
 👨🏼‍💻  I’m currently working with kubernetes
 
-🧑🏼‍🚀  I’m currently working in Azure Devops, creating pipelines.
+🧑🏼‍🚀  I’m currently working with Azure Devops, creating pipelines.
 
 🖤  My secret loved language are Go
 
