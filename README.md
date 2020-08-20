@@ -3,6 +3,7 @@ I'm a DevOps with Azure and c# Developer, I like work with kubernetes and docker
 Always i looking make awsome pipelines for CI/CD.
 
 ☣️  Kubectl is always ready in my terminal.
+
 👨🏼‍💻  I’m currently working with kubernetes
 - I’m currently working in Azure Devops, creating pipelines.
 - My secret loved language are Go
