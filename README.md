@@ -1,1 +1,2 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyv73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Eddy's github stats](https://github-readme-stats.vercel.app/api?username=eddyv73&show_icons=true&theme=radical)
