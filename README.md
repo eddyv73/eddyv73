@@ -6,7 +6,7 @@ Always I looking make awesome pipelines for CI/CD.
 
 👨🏼‍💻  I’m currently working with kubernetes
 
-🧑🏼‍🚀  I’m currently working with Azure Devops, creating pipelines.
+🚀  I’m currently working with Azure Devops, creating pipelines.
 
 🖤  My secret loved language are Go
 
