@@ -1,14 +1,13 @@
 ### Hello! I'm Eddy 🏴‍☠️ 
-I'm a DevOps with Azure and c# Developer. I like work with kubernetes and dockers.
-Always I looking make awesome pipelines for CI/CD.
+I am a DevOps engineer specializing in Azure and a C# developer. I enjoy working with Kubernetes and Docker. I'm always striving to create awesome pipelines for CI/CD.
 
-☣️  Kubectl is always ready in my terminal.
+☣️   Kubectl is always at the ready in my terminal.
 
-👨🏼‍💻  I’m currently working with kubernetes
+👨🏼‍💻  I'm currently working with Kubernetes.
 
-🚀  I’m currently working with Azure Devops, creating pipelines.
+🚀  I'm currently working with Azure DevOps, creating pipelines.
 
-🖤  My secret loved language are Swift
+🖤  My secret favorite programming language is Swift.
 
 o/
 
