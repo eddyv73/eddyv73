@@ -20,9 +20,3 @@ _____    _____/  |_|__| ______ ____   ____
 
 ```
 o/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyv73&layout=compact&langs_count=8&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
